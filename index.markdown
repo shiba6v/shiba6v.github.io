@@ -6,7 +6,7 @@ layout: home
 ---
 ## About
 <div style="display:flex">
-<img src="/assets/imgs/icon.jpg" style="width:5em;margin:0.2em">
+<img src="/assets/imgs/icon.jpg" style="width:5em;height:5em;margin:0.2em">
 <p style="margin:0 2em 0 1em">
 Webサービスの開発やVRゲームの制作、コンピュータビジョン分野の研究をしてきました。
 シバニャンと呼んでもらえると嬉しいです。

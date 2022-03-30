@@ -19,10 +19,8 @@ minima:
 header_pages:
  - About
  - Projects
- - Skills
- - Researches
  - Educations
- - Experiences
+ - Skills
  - Links
 
 # Build settings

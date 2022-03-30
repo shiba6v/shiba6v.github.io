@@ -5,12 +5,18 @@
 layout: home
 ---
 ## About
-
+<div style="display:flex">
+<img src="/assets/imgs/icon.jpg" style="width:5em;margin:0.2em">
+<p style="margin:0 2em 0 1em">
 Webサービスの開発やVRゲームの制作、コンピュータビジョン分野の研究をしてきました。
+シバニャンと呼んでもらえると嬉しいです。
+</p>
+</div>
 
 ---
 ## Projects
 ### [SSフォトカードメーカー](https://photocard.shiba6v.com/top) ([Blog](https://shiba6v.hatenablog.com/entry/ss_photocard_2022), 2021/12)
+
 - フォトカードに適した加工ができるWebツールです。
 - PyTorch, Docker, Flask
 
@@ -25,43 +31,34 @@ Webサービスの開発やVRゲームの制作、コンピュータビジョン
 ### [「猫になる」VR](https://ma2017.we-are-ma.jp/2017/12/2nd2017-top10/) ([予選](https://ma2017.we-are-ma.jp/2017/11/hackathon-shiojiri2017/), [決勝](https://ma2017.we-are-ma.jp/2017/12/final_2017/), 2017/8〜2017/12)
 - 猫になって街を駆け巡り、人間に撫でてもらうVRゲームです。
 - 体験会 at 京都大学11月祭 (2017年)
-- Mashup Awards 2017 優秀賞
+- Mashup Awards (2017年) 優秀賞
 - Unity, C#, HTC Vive
 
 ### [ツッコミの祭典/漫才VR](https://ma2017.we-are-ma.jp/2017/02/hackathon-hackonair/) (2017/2)
 - VRで漫才のツッコミ役になれるゲームです。
-- Unity
+- MBSハッカソン Hack On Air 2017 最優秀賞
+- Unity, C#
 
 ### [京大らくたんデータベース](https://rakutan.shiba6v.com/) (2017/8〜2018/1)
 - 京都大学の講義の単位取得率を表示するWebサイトです。
+- 毎年4月に3000人程度の新規ユーザー(GA)が来ます。
 - Ruby on Rails
-
----
-## Skills
-- Game Programming
-  - Unity (C#)
-  - VR Game
-- Computer Vision
-  - Human Body Shape/Pose
-  - 3D Reconsturction
-  - Multiview Geometry
-  - PyTorch
-- Web Development
-  - Flask (Python)
-
-<!-- --- -->
-
-
-<!-- ## Talks -->
-<!-- - CAMPHOR- Day 2021 -->
-<!-- - Unite2017 Tokyo: [VIVEとUnityで、1週間で作る漫才VR](https://www.slideshare.net/Unite2017Tokyo/unite-2017-tokyoviveunity1vr) -->
-
 
 ---
 ## Researches
 - [Consistent 3D Human Shape from Repeatable Action](https://openaccess.thecvf.com/content/CVPR2021W/DynaVis/html/Shibata_Consistent_3D_Human_Shape_From_Repeatable_Action_CVPRW_2021_paper.html)
+  - 人の繰り返しの動作を利用することで、1台のカメラで撮影した動画から時間的に一貫した人体の三次元形状を復元する手法を提案しました。
   - CVPR Workshop ([DynaVis 2021](https://dynavis.github.io/2021/)) Best Paper Award
 - [京都大学第16回ICTイノベーション](https://ict-nw.i.kyoto-u.ac.jp/ict-innovation/16th/) 優秀研究賞
+
+---
+
+## Talks
+- [CAMPHOR- Day 2021](https://camphor.connpass.com/event/206786/): [証明写真を30円で作る](https://speakerdeck.com/shiba6v/zheng-ming-xie-zhen-wo30yuan-dezuo-ru)
+- [CAMPHOR- Day 2020](https://camphor.connpass.com/event/167947/): [IPythonマジックコマンドを作る](https://speakerdeck.com/shiba6v/ipythonmazitukukomandowozuo-ru)
+- [CAMPHOR- Day 2019](https://camphor.connpass.com/event/119434/): [畳み込みニューラルネットワーク(CNN)の判断根拠の可視化手法](https://speakerdeck.com/shiba6v/die-miip-miniyurarunetutowaku-cnn-falsepan-duan-gen-ju-falseke-shi-hua-shou-fa-20fen-tokuyong)
+- [BitValley2018 AfterParty LT](https://connpass.com/event/98278/): [遺伝的アルゴリズムでシフト組みを自動化した話](https://speakerdeck.com/shiba6v/yi-chuan-de-arugorizumudesihutozu-miwozi-dong-hua-sitahua)
+- [Unite2017 Tokyo](https://events.unity3d.jp/unitetokyo/2017/session-lineup.html#session58): [VIVEとUnityで、1週間で作る漫才VR](https://www.slideshare.net/Unite2017Tokyo/unite-2017-tokyoviveunity1vr)
 
 ---
 ## Educations
@@ -94,6 +91,36 @@ Webサービスの開発やVRゲームの制作、コンピュータビジョン
     - 2016/4〜2021/12
     - 代表(2017年, 2019年)
     - [https://camph.net/](https://camph.net/)
+
+---
+
+## Skills
+- Game Programming
+  - Unity (C#)
+  - VR Game
+- Computer Vision
+  - Human Body Shape/Pose
+  - 3D Reconsturction
+  - Multiview Geometry
+  - PyTorch
+- Web Development
+  - Flask (Python)
+
+---
+## Interests
+- 人に関するコンピュータビジョン
+  - ポーズ・顔・3D形状・動作などを扱いたい。
+- 便利な・面白いWebサービス
+  - 有りそうで無かった便利なサービスを作って、使ってもらいたい。
+  - 動画・画像・音声を使ったサービスを作ってみたい。
+  - 作りたいものを作れる力を付けたい。
+- VRゲーム・スマホゲーム開発
+  - 面白いゲームを作って、遊んでもらいたい。
+- 趣味プロジェクト
+  - 気になる技術を検証したい。
+  - ハッカソン・展示・発表などを通して、作ったものを使ってもらいたい。
+- 英語学習
+  - コミュニケーションに不自由しないくらいになりたい。
 
 ---
 ## Links

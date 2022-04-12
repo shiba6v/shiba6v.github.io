@@ -15,7 +15,7 @@
           
           <div class="trigger">
             {%- for path in site.header_pages -%}
-              <a class="page-link" href="#{{path|downcase}}">{{ path | escape }}</a>
+              <a class="page-link" href="/#{{path|downcase}}">{{ path | escape }}</a>
             {%- endfor -%}
           </div>
         </nav>

@@ -15,15 +15,6 @@ Webサービスの開発やVRゲームの制作、コンピュータビジョン
 
 ---
 ## Projects
-### [SSフォトカードメーカー](https://photocard.shiba6v.com/top) ([Blog](https://shiba6v.hatenablog.com/entry/ss_photocard_2022), 2021/12)
-
-- フォトカードに適した加工ができるWebツールです。
-- PyTorch, Docker, Flask
-
-### [激安！証明写真を作ろう！](https://idphoto.shiba6v.com/top) ([Slide](https://speakerdeck.com/shiba6v/zheng-ming-xie-zhen-wo30yuan-dezuo-ru), [Video](https://www.youtube.com/watch?v=rsUhncxzWYA), 2021/3)
-- 30円で証明写真を作れるWebツールです。
-- Python NumPy, Docker, dlib
-
 ### [Shape Commentator](https://github.com/shiba6v/shape_commentator) ([Blog](https://shiba6v.hatenablog.com/entry/shape_commentator_release), 2018/12)
 - PyTorchなどの配列のshape属性を、スクリプトにコメントとして貼り付けるツールです。
 - Python, AST
@@ -43,6 +34,9 @@ Webサービスの開発やVRゲームの制作、コンピュータビジョン
 - 京都大学の講義の単位取得率を表示するWebサイトです。
 - 毎年4月に3000人程度の新規ユーザー(GA)が来ます。
 - Ruby on Rails
+
+
+[他のプロジェクトも見る](/projects)
 
 ---
 ## Researches
@@ -109,18 +103,20 @@ Webサービスの開発やVRゲームの制作、コンピュータビジョン
 ---
 ## Interests
 - 便利な・面白いWebサービス
-  - 有りそうで無かった便利なサービスを作って、使ってもらいたい。
+  - 自分が感じた問題を解決するものを作って、多くの人に役立つものにしたい。
   - 動画・画像・音声を使ったサービスを作ってみたい。
-  - 作りたいものを作れる力を付けたい。
-- VRゲーム・スマホゲーム開発
+- ゲーム
   - 面白いゲームを作って、遊んでもらいたい。
 - 人に関するコンピュータビジョン
   - ポーズ・顔・3D形状・動作などを扱いたい。
 - 趣味プロジェクト
-  - 気になる技術を検証したい。
   - ハッカソン・展示・発表などを通して、作ったものを使ってもらいたい。
 - 英語学習
   - コミュニケーションに不自由しないくらいになりたい。
+
+---
+## Hobbies
+- [遊んだゲーム一覧](/games)
 
 ---
 ## Links
